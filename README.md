@@ -1,3 +1,5 @@
+This is a practice project(to be continued)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
